@@ -20,9 +20,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/bykodhan/avaz-mp3-player.git
+git clone https://github.com/bykodhan/electronjs-avaz-mp3-player.git
 # Go into the repository
-cd avaz-mp3-player
+cd electronjs-avaz-mp3-playe
 # Install dependencies
 npm install
 # Run the app
@@ -40,6 +40,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
 - [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
 
-## License
-
-[GNU General Public License v3.0]
+# Linux x64 
+https://drive.google.com/file/d/1QvuE5EdZgQ9kVh80HcrJL739z7nqFBqL/view?usp=sharing
+# Example Screenshot 
+https://drive.google.com/file/d/1v8RcPfp5mzBVNdqga6MT4pWAxPY-IwV1/view?usp=sharing
