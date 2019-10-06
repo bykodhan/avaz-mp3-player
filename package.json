@@ -1,0 +1,19 @@
+{
+  "name": "avaz-mp3-player",
+  "productName": "Avaz MP3 Player",
+  "version": "1.0.0",
+  "description": "Mp3 Player",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "bykodhan",
+  "license": "GNU",
+  "devDependencies": {
+    "electron": "^6.0.11",
+    "electron-packager": "^14.0.6"
+  },
+  "dependencies": {
+    "node-id3": "^0.1.11"
+  }
+}
