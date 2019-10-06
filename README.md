@@ -1,4 +1,4 @@
-# electron-quick-start
+# avaz-mp3-player
 
 **Clone and run for a quick way to see Electron in action.**
 
@@ -20,9 +20,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/bykodhan/avaz-mp3-player.git
 # Go into the repository
-cd electron-quick-start
+cd avaz-mp3-player
 # Install dependencies
 npm install
 # Run the app
@@ -42,4 +42,4 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## License
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
+[GNU General Public License v3.0]
