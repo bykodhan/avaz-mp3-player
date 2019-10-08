@@ -1,5 +1,4 @@
 # avaz-mp3-player
-
 **Clone and run for a quick way to see Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
@@ -40,7 +39,5 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
 - [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
 
-# Linux x64 
-https://drive.google.com/file/d/1QvuE5EdZgQ9kVh80HcrJL739z7nqFBqL/view?usp=sharing
-# Example Screenshot 
-https://drive.google.com/file/d/1v8RcPfp5mzBVNdqga6MT4pWAxPY-IwV1/view?usp=sharing
+## Screenshot
+![Screenshot_6](https://user-images.githubusercontent.com/28344579/66413820-d1aa2880-ea00-11e9-8af0-774e08ec854e.png)
